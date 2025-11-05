@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Rizky Agung Dwi Putranto
+<!-- ## I'm Rizky Agung Dwi Putranto
 
 📍 Yogyakarta, Indonesia  
 📧 [rizkyagung22@gmail.com](mailto:rizkyagung22@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/rizky-agung-dwi-putranto)
 
 ---
+-->
 
 ## 🧠 About Me
 
