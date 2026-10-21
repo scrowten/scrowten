@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-I’m a **Machine Learning Engineer / Data Scientist** passionate about building scalable automation systems for e-commerce and content understanding.
+I’m a **Fullstack AI Engineer** passionate about building scalable automation systems for e-commerce and content understanding.
 
-Over the past few years, I’ve worked on projects involving **deep learning**, **multilingual and multimodal models**, and **large-scale ML pipelines** that power real-world products used by millions.
+Over the past few years, I’ve worked on projects involving **deep learning**, **multilingual and multimodal LLMs**, **large-scale ML pipelines**, and **end-to-end deployments** that power real-world products used by millions.
 
 My focus is on bridging research and production — turning state-of-the-art models into reliable, automated, and measurable systems.
 
